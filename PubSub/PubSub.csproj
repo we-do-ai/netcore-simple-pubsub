@@ -7,6 +7,7 @@
         <Company>we-do.ai GmbH</Company>
         <LangVersion>8.0</LangVersion>
         <TargetFramework>netcoreapp3.1</TargetFramework>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 
     <ItemGroup>
@@ -14,5 +15,4 @@
       <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="3.1.6" />
       <PackageReference Include="StackExchange.Redis" Version="2.1.58" />
     </ItemGroup>
-
 </Project>
